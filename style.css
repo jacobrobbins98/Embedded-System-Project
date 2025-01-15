@@ -16,3 +16,9 @@ ul {
  padding: 15px;
  list-style-type: square;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
